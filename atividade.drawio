@@ -165,13 +165,13 @@
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="KvseICjcJlt-JyVG3Q9j-2" value="CONTAGEM&lt;div&gt;==1&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
-                    <mxGeometry x="225" y="210" width="150" height="80" as="geometry"/>
+                    <mxGeometry x="225" y="270" width="150" height="80" as="geometry"/>
                 </mxCell>
-                <mxCell id="KvseICjcJlt-JyVG3Q9j-9" style="edgeStyle=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="KvseICjcJlt-JyVG3Q9j-3" target="KvseICjcJlt-JyVG3Q9j-4" edge="1">
+                <mxCell id="KvseICjcJlt-JyVG3Q9j-9" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="KvseICjcJlt-JyVG3Q9j-3" target="KvseICjcJlt-JyVG3Q9j-4" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="KvseICjcJlt-JyVG3Q9j-3" value="CONTAGEM DE 1 A 10" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#fad7ac;strokeColor=#b46504;" parent="1" vertex="1">
-                    <mxGeometry x="210" y="340" width="180" height="60" as="geometry"/>
+                    <mxGeometry x="210" y="450" width="180" height="60" as="geometry"/>
                 </mxCell>
                 <mxCell id="KvseICjcJlt-JyVG3Q9j-4" value="FIM" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;" parent="1" vertex="1">
                     <mxGeometry x="520" y="190" width="120" height="80" as="geometry"/>
@@ -184,6 +184,17 @@
                 </mxCell>
                 <mxCell id="Kynj-_ejDo3pgWp8qmLP-1" value="DIGITE 1 PARA INICIAR A CONTAGEM" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
                     <mxGeometry x="195" y="130" width="210" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="Kynj-_ejDo3pgWp8qmLP-4" value="SIM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="240" y="350" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Kynj-_ejDo3pgWp8qmLP-5" value="NÃO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="375" y="295" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="Kynj-_ejDo3pgWp8qmLP-6" style="edgeStyle=none;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Kynj-_ejDo3pgWp8qmLP-5" target="KvseICjcJlt-JyVG3Q9j-4">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="520" y="230" as="targetPoint"/>
+                    </mxGeometry>
                 </mxCell>
             </root>
         </mxGraphModel>
