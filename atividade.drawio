@@ -1,0 +1,147 @@
+<mxfile host="65bd71144e">
+    <diagram id="R-5eT76pNSJoGDwIzhVg" name="Dobro">
+        <mxGraphModel dx="736" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="9" value="" style="edgeStyle=none;html=1;" parent="1" source="2" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="30" y="40" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="" style="edgeStyle=none;html=1;" parent="1" source="3" target="5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="DIGITAR&amp;nbsp;&lt;div&gt;NUMERO&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="50" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="" style="edgeStyle=none;html=1;" parent="1" source="5" target="6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="DOBRO&lt;div&gt;NUMERO= *2&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="390" y="50" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="q6kPT5-dgeiqTEHdVYeY-13" value="" style="edgeStyle=none;html=1;" parent="1" source="6" target="q6kPT5-dgeiqTEHdVYeY-12" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="RESULTADO" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="390" y="170" width="120" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;DOBRO&lt;/h1&gt;&lt;div&gt;Funcionamento de um codigo simples para mostrar o dobro de um valor digitado peço usuario&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="610" y="30" width="180" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="q6kPT5-dgeiqTEHdVYeY-12" value="FIM" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="390" y="280" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="-PReSM5Idh_WwqLt-fG1" name="Verificar idade">
+        <mxGraphModel dx="736" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="4D1OAy0dg1UeNiTEq1M0-13" value="" style="edgeStyle=none;html=1;" parent="1" source="4D1OAy0dg1UeNiTEq1M0-1" target="4D1OAy0dg1UeNiTEq1M0-2" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4D1OAy0dg1UeNiTEq1M0-1" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="35" y="10" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="4D1OAy0dg1UeNiTEq1M0-12" value="" style="edgeStyle=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4D1OAy0dg1UeNiTEq1M0-2" target="4D1OAy0dg1UeNiTEq1M0-3" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <Array as="points"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4D1OAy0dg1UeNiTEq1M0-2" value="DIGITAR IDADE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry y="140" width="190" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4D1OAy0dg1UeNiTEq1M0-10" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" parent="1" source="4D1OAy0dg1UeNiTEq1M0-3" target="4D1OAy0dg1UeNiTEq1M0-6" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4D1OAy0dg1UeNiTEq1M0-11" style="edgeStyle=none;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4D1OAy0dg1UeNiTEq1M0-3" target="4D1OAy0dg1UeNiTEq1M0-7" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4D1OAy0dg1UeNiTEq1M0-3" value="IDADE &amp;gt;=18" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="12.5" y="270" width="165" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="4D1OAy0dg1UeNiTEq1M0-4" value="SIM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="250" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4D1OAy0dg1UeNiTEq1M0-5" value="NÃO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="120" y="340" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4D1OAy0dg1UeNiTEq1M0-14" value="" style="edgeStyle=none;html=1;" parent="1" source="4D1OAy0dg1UeNiTEq1M0-6" target="4D1OAy0dg1UeNiTEq1M0-8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4D1OAy0dg1UeNiTEq1M0-6" value="MAIOR DE IDADE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="224" y="210" width="190" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4D1OAy0dg1UeNiTEq1M0-15" value="" style="edgeStyle=none;html=1;" parent="1" source="4D1OAy0dg1UeNiTEq1M0-7" target="4D1OAy0dg1UeNiTEq1M0-8" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="4D1OAy0dg1UeNiTEq1M0-7" value="MENOR DE IDADE" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="350" width="190" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="4D1OAy0dg1UeNiTEq1M0-8" value="FIM" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="500" y="270" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="4vniGXOj3CQmXd5J_Ys6-1" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;VERIFICAR IDADE&lt;/h1&gt;&lt;div&gt;Fluxograma para verificação de idade&lt;/div&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="590" y="40" width="240" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+    <diagram id="vV60u82bGV91kgp_ZNf7" name="Média de notas">
+        <mxGraphModel dx="736" dy="569" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="XLC6fJOfM4U3DoHWNkEx-1" value="INICIO" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="50" y="30" width="120" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="XLC6fJOfM4U3DoHWNkEx-4" value="" style="edgeStyle=none;html=1;" parent="1" source="XLC6fJOfM4U3DoHWNkEx-2" target="XLC6fJOfM4U3DoHWNkEx-3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="XLC6fJOfM4U3DoHWNkEx-2" value="Digite a primeira nota" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="150" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="XLC6fJOfM4U3DoHWNkEx-6" value="" style="edgeStyle=none;html=1;" parent="1" source="XLC6fJOfM4U3DoHWNkEx-3" target="XLC6fJOfM4U3DoHWNkEx-5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="XLC6fJOfM4U3DoHWNkEx-3" value="Digite a segunda nota" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="10" y="290" width="200" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="XLC6fJOfM4U3DoHWNkEx-8" value="" style="edgeStyle=none;html=1;" parent="1" source="XLC6fJOfM4U3DoHWNkEx-5" target="XLC6fJOfM4U3DoHWNkEx-7" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="XLC6fJOfM4U3DoHWNkEx-10" value="" style="edgeStyle=none;html=1;" parent="1" source="XLC6fJOfM4U3DoHWNkEx-5" target="XLC6fJOfM4U3DoHWNkEx-9" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="XLC6fJOfM4U3DoHWNkEx-5" value="&amp;nbsp;nota &amp;gt;=7" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="290" y="280" width="170" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="XLC6fJOfM4U3DoHWNkEx-13" value="" style="edgeStyle=none;html=1;" parent="1" source="XLC6fJOfM4U3DoHWNkEx-7" target="XLC6fJOfM4U3DoHWNkEx-12" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="XLC6fJOfM4U3DoHWNkEx-7" value="Média aprovado" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="480" y="200" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="XLC6fJOfM4U3DoHWNkEx-11" style="edgeStyle=none;html=1;" parent="1" source="XLC6fJOfM4U3DoHWNkEx-9" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="620" y="350" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="XLC6fJOfM4U3DoHWNkEx-14" value="" style="edgeStyle=none;html=1;" parent="1" source="XLC6fJOfM4U3DoHWNkEx-9" target="XLC6fJOfM4U3DoHWNkEx-12" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="XLC6fJOfM4U3DoHWNkEx-9" value="Média reprovado" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+                    <mxGeometry x="470" y="340" width="180" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="XLC6fJOfM4U3DoHWNkEx-12" value="Fim" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="690" y="260" width="120" height="80" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
